@@ -1,16 +1,22 @@
-# mobile_dashboard_ui
 
-A new Flutter project.
+# Mobile Dashboard UI (Design Only)
 
-## Getting Started
+This repository/project is the second Mobile App Developement Assignment by EDGE Digital Skills Training Program, Batch CBI-018 under our Instructor Noor Mohammad Anik Sir.
 
-This project is a starting point for a Flutter application.
+The Mobile App displays a dashboard displaying 6 cards, each card represents a section of the app's functionality, although **no** functionality has been added yet (as per the assignment)
 
-A few resources to get you started if this is your first Flutter project:
+The **only** functionality, I've made in this project is the **translator button** (English and Bangla)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tools and Languages
+Flutter and Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots (Chrome Extension: Mobile Emulator)
+1. **English**
+
+![App Screenshot](assets/images/ss1.PNG)
+
+
+2. **Bangla**
+
+![App Screenshot](assets/images/ss2.PNG)
+
